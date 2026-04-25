@@ -36,6 +36,13 @@
       "mensaje": "Este es mi mensaje",
       "rol": "developer",
       "libertad_favorita": "0"
+     },
+      {
+"nombre": "Tito Calderon",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "anashe",
+      "rol": "tester",
+      "libertad_favorita": "0"
     }
   ]
 }
