@@ -29,6 +29,35 @@
       "mensaje": "El mejor conocimiento es el que se comparte",
       "rol": "developer",
       "libertad_favorita": "3"
+    },
+      {
+      "nombre": "Lorena",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Flisol 2026",
+      "rol": "estudiante",
+      "libertad_favorita": "0"
+     },
+      {
+      "nombre": " Tito Calderon",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Anashei",
+      "rol": "Tester",
+      "libertad_favorita": "0"
+    }
+    {
+      "nombre": "Florencia Coronel",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Flisol '26 :D",
+      "rol": "developer",
+      "libertad_favorita": "0"
+    }
+  {
+      "nombre": "Gonzalo Barrionuevo",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Vamoo la Flisol 2026",
+      "rol": "developer",
+      "libertad_favorita": "0"
     }
   ]
+  
 }
